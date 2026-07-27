@@ -1,0 +1,6 @@
+Compound_ID,SMILES,Valid_SMILES,Canonical_SMILES,Scaffold
+CMP001,CCO,True,CCO,
+CMP003,c1ccccc1,True,c1ccccc1,c1ccccc1
+CMP004,CC(=O)OC1=CC=CC=C1C(=O)O,True,CC(=O)Oc1ccccc1C(=O)O,c1ccccc1
+CMP006,CN(C)C=O,True,CN(C)C=O,
+CMP008,CC[NH+](C)CC,True,CC[NH+](C)CC,
