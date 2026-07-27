@@ -1,0 +1,5 @@
+Compound_ID,SMILES,Canonical_Tautomer_SMILES
+CMP001,O=C1NC=CC=C1,O=c1cccc[nH]1
+CMP002,OC1=CC=CC=C1,Oc1ccccc1
+CMP003,C1=CC=C(C=C1)O,Oc1ccccc1
+CMP004,CC(=O)C,CC(C)=O
