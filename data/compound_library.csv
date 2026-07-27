@@ -1,0 +1,6 @@
+Compound_ID,SMILES
+CMP001,CC(=O)Oc1ccccc1C(=O)O
+CMP002,CCOC(=O)c1ccccc1
+CMP003,c1ccccc1O
+CMP004,CCN(CC)CC
+CMP005,CC(C)Cc1ccc(cc1)[C@@H](C)C(=O)O
