@@ -1,0 +1,5 @@
+Compound_ID,SMILES,Largest_Fragment_SMILES
+CMP001,CCO.Cl,CCO
+CMP002,CC(=O)O.[Na+],CC(=O)O
+CMP003,c1ccccc1.Br,c1ccccc1
+CMP004,CCN,CCN
