@@ -1,0 +1,5 @@
+Compound_ID,SMILES,Standardized_SMILES
+CMP001,CCO.Cl,CCO
+CMP002,CC(=O)[O-].[Na+],
+CMP003,O=C1NC=CC=C1,O=c1cccc[nH]1
+CMP004,C1=CC=C(C=C1)O,Oc1ccccc1
