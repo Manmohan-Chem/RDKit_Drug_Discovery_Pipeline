@@ -1,0 +1,5 @@
+Compound_ID,SMILES,Rotatable_Bonds,TPSA,Veber_Pass
+CMP001,CCO,0,20.23,True
+CMP002,CC(=O)O,0,37.3,True
+CMP003,c1ccccc1,0,0.0,True
+CMP004,CCN(CC)CC,3,3.24,True
