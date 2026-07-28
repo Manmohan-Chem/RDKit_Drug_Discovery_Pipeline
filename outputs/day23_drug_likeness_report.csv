@@ -1,0 +1,5 @@
+Compound_ID,SMILES,MW,LogP,HBD,HBA,TPSA,Rotatable_Bonds,Lipinski_Pass,Veber_Pass,Drug_Like
+CMP001,CCO,46.07,-0.0,1,1,20.23,0,True,True,True
+CMP002,CC(=O)O,60.05,0.09,1,1,37.3,0,True,True,True
+CMP003,c1ccccc1,78.11,1.69,0,0,0.0,0,True,True,True
+CMP004,CCOC(=O)c1ccccc1,150.18,1.86,0,2,26.3,2,True,True,True
