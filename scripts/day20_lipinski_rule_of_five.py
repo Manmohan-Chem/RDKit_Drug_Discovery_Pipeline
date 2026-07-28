@@ -47,7 +47,6 @@ data = {
     ]
 }
 
-
 df = pd.DataFrame(data)
 
 lipinski_df = df["SMILES"].apply(lipinski_rule).apply(pd.Series)
